@@ -1,0 +1,2 @@
+rootProject.name='LocalDatabaseTesting'
+include ':app'
